@@ -1,6 +1,10 @@
 {
   "latest.json": [
     {
+      "version": 3,
+      "blob": "blobs/3c28e2ae812302a3d312d54c3eac26cf38bb89acca46e7a55eafffe2b74df4ad.bin"
+    },
+    {
       "version": 2,
       "blob": "blobs/3c28e2ae812302a3d312d54c3eac26cf38bb89acca46e7a55eafffe2b74df4ad.bin"
     },
